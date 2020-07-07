@@ -1,2 +1,5 @@
 # ds-algo-python
-Data Structures and Algorithms in Python - Solved Problems
+Welcome to the realm of Data Structures and Algorithms! Here you will find problems and their solutions coded in python.
+
+## Topics Covered
+- Stacks
